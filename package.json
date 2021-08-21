@@ -4,7 +4,7 @@
   "description": "chatnow remake with Nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "author": "Anurag Shukla",
   "license": "ISC",
