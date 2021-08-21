@@ -1,0 +1,14 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "chatnow remake with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
